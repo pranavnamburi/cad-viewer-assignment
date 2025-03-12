@@ -1,0 +1,4 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+trimesh==3.23.5
+numpy==1.26.0
